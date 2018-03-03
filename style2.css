@@ -30,7 +30,7 @@ h1{
 
 header.startup {
   background-position: center;
-  background-image: url("Brownie.jpg");
+  background-image: Brownie.jpg;
   background-size: cover;
   
 }
