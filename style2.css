@@ -17,28 +17,32 @@ body {
 #text
 {
   align-content: center;
-}
-h1{
-  align-content: center;
-  border:2px solid brown;
-  background-color: brown;
   position: relative;
-  top: 50px;
-  left:275px;
+  top: 100px;
+  position: relative;
   width:50%;
+  font-weight: bold;
+ 
+}
+
+.text{
+  color:#cc8739;
+  align-content: center;
+  font-weight: bold;
+  
 }
 
 header.startup {
   background-position: center;
-  background-image: url(https://raw.githubusercontent.com/keshavyerra/Brownies/master/brownie.jpg);
+  background-image: url(https://images.unsplash.com/photo-1484300681262-5cca666b0954?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3158a7ecd98a3e7c7f006d4612379bbc&auto=format&fit=crop&w=368&q=80);
   background-size: cover;
   
 }
 
 .row {
   justify-content: center;
-  opacity: 0.80;
-  filter: alpha(opacity=50);
+  opacity: 0.70;
+  filter: alpha(opacity=20);
 }
 
 .survey{
