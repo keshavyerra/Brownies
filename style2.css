@@ -66,8 +66,6 @@ background-color:#191919;
 }
 
 header.startup {
-  height:180%;
-  background-repeat: no-repeat;
   background-position: center;
   background-image: url(https://raw.githubusercontent.com/keshavyerra/Brownies/master/brownie.jpg);
   background-size: cover;
