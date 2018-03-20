@@ -25,6 +25,39 @@ body {
  
 }
 
+.button
+{
+padding:8px 10px 8px 10px;
+transition:0.2s all ease;
+-webkit-transition:0.2s all ease;/*for Chrome and Safari*/
+-o-transition:0.2s all ease;/*For Opera*/
+-ms-transition:0.2s all ease;/*For I.E.*/
+-moz-transition:0.2s all ease;/*For Mozilla*/
+opacity:0.9;
+border:none;
+} 
+
+.button.red
+{
+background-color:#d9522c;
+border-left:4px solid #d9522c;
+color:white;
+}
+
+.button:hover
+{
+opacity:1;
+border-left:4px solid Brown;
+cursor:pointer;
+}   
+
+.button:active
+{
+color:white;
+background-color:#191919;
+}  
+
+
 .text{
   color:#cc8739;
   align-content: center;
