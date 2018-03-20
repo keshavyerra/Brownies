@@ -56,10 +56,11 @@ header.startup h1 {
 
 .list{
   list-style-type: none;
-  align-content: center;
+  text-align:left;
+  align-content: right;
   position: relative;
   top: 80px;
-  left: 155px;
+  left: 220px;
   position: relative;
   width:50%;
   font-weight: bold;
